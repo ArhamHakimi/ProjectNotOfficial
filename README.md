@@ -14,13 +14,13 @@
 6. Copy and paste everything inside pom.xml (from this repository) into your pom.xml
 7. Change <artifactId> from GroupProject into your project name
 
-   Example: <artifactId>GroupProject
+   Example: [artifactId]GroupProject[/artifactId] // Imagine [] is <>
    
    ^ Change "GroupProject" into your project name
    
 8. In the bottom part, change <mainClass> into your project name
 9. 
-   Example: <mainClass>com.mycompany.groupproject.Main
+   Example: [mainClass]com.mycompany.groupproject.Main[/mainClass] // Imagine [] is <>
    
    ^ Change "groupproject" into your project name (ALL LOWERCASE)
    
